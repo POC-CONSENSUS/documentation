@@ -4,6 +4,7 @@ metadata:
   name: documentation
   annotations:
     github.com/project-slug: POC-CONSENSUS/documentation
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: website
   lifecycle: experimental
