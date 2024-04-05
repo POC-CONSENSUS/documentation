@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: documentation
+  annotations:
+    github.com/project-slug: POC-CONSENSUS/documentation
+spec:
+  type: other
+  lifecycle: unknown
