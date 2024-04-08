@@ -1,6 +1,6 @@
 site_name: 'Documentation POC Consensus'
 site_description: 'Main documentation for this POC'
-repo_url: https://github.com/POC-CONSENSUS/
+repo_url: https://github.com/POC-CONSENSUS/documentation/
 edit_uri: edit/master/docs
 
 copyright: Sylvain Martin
