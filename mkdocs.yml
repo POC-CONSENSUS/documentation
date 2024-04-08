@@ -4,9 +4,9 @@ repo_url: https://github.com/POC-CONSENSUS/documentation/
 edit_uri: edit/main/docs
 
 copyright: Sylvain Martin
-docs_dir: docs
-strict: true
 
+plugins:
+  - techdocs-core
 
 nav:
   - Home: index.md
