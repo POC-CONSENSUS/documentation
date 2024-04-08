@@ -1,0 +1,7 @@
+site_name: 'Documentation POC Consensus'
+site_description: 'Main documentation for this POC'
+repo_url: https://github.com/POC-CONSENSUS/
+edit_uri: edit/master/docs
+
+plugins:
+  - techdocs-core
