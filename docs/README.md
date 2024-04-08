@@ -10,7 +10,6 @@ The convention syntax is to use with Consensus in presales activities (https://g
 
 ## Design
 
-![image](https://github.com/POC-CONSENSUS/documentation/assets/10670618/c947001e-cc8e-4f2d-98c2-42aa4f494b73)
 
 ## Repositories
 
