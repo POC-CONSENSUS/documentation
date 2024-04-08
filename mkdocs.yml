@@ -10,5 +10,5 @@ plugins:
 
 nav:
   - Home: index.md
-  - Purpose: README.md
+  - Purpose: purprose.md
   - Repositories owerview: repositories.md
