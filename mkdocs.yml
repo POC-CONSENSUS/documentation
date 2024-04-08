@@ -10,4 +10,5 @@ plugins:
 
 nav:
   - Home: index.md
-  - Read me global architecture: README.md
+  - Purpose: README.md
+  - Repositories owerview: repositories.md
