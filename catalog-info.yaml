@@ -2,6 +2,9 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: documentation
+  description: This website is to centralise the documentation of the project.
+  tags:
+    - markdown
   annotations:
     github.com/project-slug: POC-CONSENSUS/documentation
     backstage.io/techdocs-ref: dir:.
